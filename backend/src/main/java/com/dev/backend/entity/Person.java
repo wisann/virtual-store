@@ -30,6 +30,9 @@ public class Person {
     private String cpf;
     private String email;
     private String senha;
+    private String codigoRecuperacaoSenha;
+    @Temporal(TemporalType.TIMESTAMP)
+    private Date dataEnvioCodigo;
     private String endereco;
     private String cep;
     @ManyToOne
