@@ -1,6 +1,6 @@
 # Backend Project
 
-This is the backend project of the XYZ application. It provides an API for managing people, products, product images, states, and email services.
+This is the backend project of the virtual-store application. It provides an API for managing people, products, product images, states, and email services.
 
 ## Technologies Used
 
